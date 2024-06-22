@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # iterative approach to fibonacci sequence
 
 def fibs(num)

@@ -17,8 +17,6 @@ The Fibonacci Sequence is a series of numbers where each number is the sum of th
    - Implemented in the method `fibs_rec`.
    - This method generates the Fibonacci sequence up to the specified length using recursion.
 
-```
-
 ## Merge Sort
 
 Merge Sort is a sorting algorithm that follows the divide-and-conquer approach. It recursively divides the array into smaller sub-arrays until each sub-array contains a single element. It then merges these sub-arrays back together in sorted order.
